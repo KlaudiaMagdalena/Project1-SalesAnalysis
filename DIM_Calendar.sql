@@ -21,4 +21,4 @@ SELECT
       --,[FiscalYear]
       --,[FiscalSemester]
   FROM [AdventureWorksDW2019].[dbo].[DimDate]
-  WHERE CalendarYear >= 2019;
+  WHERE CalendarYear >= 2021 AND CalendarYear < 2023;
