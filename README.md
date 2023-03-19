@@ -1,7 +1,7 @@
-# SalesAnalysisSQL-PowerBI
+# Sales Analysis (SQL & PowerBI)
 **Project 1. Sales analysis by using SQL and Power BI**
 
-Welcome to my data analyst portfolio on GitHub! This repository contains my sales data analysis project, ranging from raw data celansing to interactive report prepared in Power BI. Look at final report [here](https://app.powerbi.com/view?r=eyJrIjoiOWFjODdjZTYtZWQzYS00NzJjLWE4OTctZjk0YjYzMGQ0MjM5IiwidCI6IjQ3Yjk1YWU4LTQ2NjItNDA5Ni05ZTE3LTM2MzY3YjY1MmY4NSIsImMiOjh9)!
+Welcome to my data analyst portfolio on GitHub! This repository contains my sales data analysis project, ranging from raw data celansing to interactive report prepared in Power BI. Look at final report [here](https://app.powerbi.com/view?r=eyJrIjoiY2YxZjZhM2YtMWVjMi00YTkzLTliNTItYjUyOTg1ZGYxZDI1IiwidCI6IjQ3Yjk1YWU4LTQ2NjItNDA5Ni05ZTE3LTM2MzY3YjY1MmY4NSIsImMiOjh9)!
 
 ## WORK STEPS
 
@@ -21,11 +21,11 @@ Update Source: [github.com/techtalkcorner/SampleDemoFiles/blob/master/Database/A
 
 ### 3. **Data Cleansing and Transformation**
 
-I prepared the data in SQL Server Management Studio, express version. The data was cleansed, transformed and saved as CSV files for further analysis. All SQL queries were save as sql files.
+I prepared the data in SQL Server Management Studio (SSMS), express version. The data was cleansed, transformed and saved as CSV files for further analysis. All SQL queries were save as sql files.
 
 ### 4. **Data visualisation**
 
-The data visualization was created using the Power BI desktop version. The report was divided into three dashboards, representing Sales Overview, Customer Details, and Product Details. The report was added to the repository as a Power BI file, and it is also available [here](https://app.powerbi.com/view?r=eyJrIjoiOWFjODdjZTYtZWQzYS00NzJjLWE4OTctZjk0YjYzMGQ0MjM5IiwidCI6IjQ3Yjk1YWU4LTQ2NjItNDA5Ni05ZTE3LTM2MzY3YjY1MmY4NSIsImMiOjh9) as an online version.
+The data visualization was created using the Power BI desktop version. The report was divided into three dashboards, representing Sales Overview, Customer Details, and Product Details. The report was added to the repository as a Power BI file, and it is also available [here](https://app.powerbi.com/view?r=eyJrIjoiY2YxZjZhM2YtMWVjMi00YTkzLTliNTItYjUyOTg1ZGYxZDI1IiwidCI6IjQ3Yjk1YWU4LTQ2NjItNDA5Ni05ZTE3LTM2MzY3YjY1MmY4NSIsImMiOjh9) as an online version.
 
 
 
